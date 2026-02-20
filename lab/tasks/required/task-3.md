@@ -234,10 +234,10 @@ async def post_learner(
 
 ## Acceptance criteria
 
-- [ ] Issue has the correct title.
-- [ ] `GET /learners` returns learner data.
-- [ ] `GET /learners?enrolled_after=2025-10-01` returns only learners enrolled after that date.
-- [ ] `POST /learners` creates a new learner and returns `201`.
-- [ ] Part A and Part B are separate commits.
-- [ ] PR is approved.
-- [ ] PR is merged.
+- [x] Issue has the correct title.
+- [x] `GET /learners` returns learner data.
+- [x] `GET /learners?enrolled_after=2025-10-01` returns only learners enrolled after that date.
+- [x] `POST /learners` creates a new learner and returns `201`.
+- [x] Part A and Part B are separate commits.
+- [x] PR is approved.
+- [x] PR is merged.
