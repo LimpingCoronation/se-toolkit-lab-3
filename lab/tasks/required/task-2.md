@@ -265,9 +265,9 @@ The query parameter is called `item_id`, so the filter should compare `i.item_id
 
 ## 2. Acceptance criteria
 
-- [ ] Issue has the correct title.
-- [ ] `GET /interactions` returns interaction data.
-- [ ] `GET /interactions?item_id=2` returns only interactions for item 2.
-- [ ] Each fix is a separate commit.
-- [ ] PR is approved.
-- [ ] PR is merged.
+- [x] Issue has the correct title.
+- [x] `GET /interactions` returns interaction data.
+- [x] `GET /interactions?item_id=2` returns only interactions for item 2.
+- [x] Each fix is a separate commit.
+- [x] PR is approved.
+- [x] PR is merged.
